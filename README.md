@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Hacking
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [My Website](https://dedsecurity.com)
-- 😄 Pronouns: ... He/Him
 -->
